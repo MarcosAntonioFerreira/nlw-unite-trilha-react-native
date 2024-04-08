@@ -1,3 +1,5 @@
+![Screenshot](./capa-nlwunite-reactnative.png)
+
 # NWL - Unite (Reactive Native)
 
 Projeto proposto pela Rocketseat em vento NLW. 
