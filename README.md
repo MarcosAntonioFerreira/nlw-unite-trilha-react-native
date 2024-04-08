@@ -35,6 +35,6 @@ Eu sou desenvolvedor Front e BackEnd. Trabalho com HTML, CSS, JS, PHP junto com 
 Projeto criado, disponibilizado por [Rodrigo Gonçalves](https://www.linkedin.com/in/orodrigogo/) em evento NWL - Trilha React Native - Rocketseat
 
  - [Projeto Figma](https://www.figma.com/community/file/1356738933008624188)
- - [Ricketseat](https://www.rocketseat.com.br/)
+ - [Rocketseat](https://www.rocketseat.com.br/)
 
 
