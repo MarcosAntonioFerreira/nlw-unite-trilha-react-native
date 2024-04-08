@@ -8,7 +8,7 @@ Uma aplicação mobile densenvolvida em Reactive Native, com coceitos de compone
 
 O aplicativo pode validar ou cadastrar uma credencial para participação de evento. Na tela inicial o usuário verifica se o código de inscrição é valido. Se SIM o usuário consegue acessar sua credencial com seus dados. Se NÃO o usuário deve efetuar seu cadastro, em seguida também pode adicionar a foto que desejar. Após o cadastro efetuado ou validação de inscrição, a credencial fica salva no parelho, possibilitando a consulta até sua remoção. QRCode é gerado conforme a url gerada pela API no momento do cadastro.
 
-[Post com video demonstrativo](https://www.linkedin.com/posts/dev-marcos-almeida_reactnative-programaaexaeto-tecnologia-activity-7182870557011431424-5Fhf?utm_source=share&utm_medium=member_ios)
+![Post com video demonstrativo](https://www.linkedin.com/posts/dev-marcos-almeida_reactnative-programaaexaeto-tecnologia-activity-7182870557011431424-5Fhf?utm_source=share&utm_medium=member_ios)
 
 ## 🤖 Conceitos e libs utilizadas:
 
